@@ -183,3 +183,9 @@ body {
     top: 50%;
     font-size: 2rem;
 }
+
+.adduser {
+    display: flex;
+    flex-direction:column;
+    width: 80%;
+}
