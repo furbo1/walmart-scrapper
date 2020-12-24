@@ -57,7 +57,7 @@ async function scrapeData(url, page){
         || deliveryNotAvailable.includes('Delivery not Available')){
             stock = 'Out of stock'
         } else {
-            stock = 'In Stock'
+            stock = 'In stock'
         }
         return {
             title, 

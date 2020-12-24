@@ -10,7 +10,7 @@ const session = require('express-session');
 const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 
-//Requiring user routes 
+//Requiring user routes below
 const userRoutes = require('./routes/users')
 const adminRoutes = require('./routes/admin')
 
