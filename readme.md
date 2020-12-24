@@ -8,31 +8,31 @@ Technologies Used:
 
 Front-End
 
-HTML5
-CSS3
-EJS -- Embedded JavaScript templates
+HTML5 <br>
+CSS3 <br>
+EJS - Embedded JavaScript templates <br>
 
 Back-End
 
-Node.js
-Express.js
-MongoDB
+Node.js <br>
+Express.js <br>
+MongoDB <br>
 
-NPM Packages
-Express
-Mongoose
-Async
-Body-parser
-Cheerio
-Connect-flash
-Crypto
-Dotenv
-Ejs
-Express-session
-Method-override
-Nodemailer
-Passport
-Passport-local,
-Passport-local-mongoose
-Path
-Puppeteer
+NPM Packages <br>
+Express <br>
+Mongoose <br>
+Async <br>
+Body-parser <br>
+Cheerio <br>
+Connect-flash <br>
+Crypto <br>
+Dotenv <br>
+Ejs <br>
+Express-session <br>
+Method-override <br>
+Nodemailer <br>
+Passport <br>
+Passport-local <br>
+Passport-local-mongoose <br>
+Path <br>
+Puppeteer 
