@@ -189,3 +189,11 @@ body {
     flex-direction:column;
     width: 80%;
 }
+
+.index {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+}
