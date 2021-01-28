@@ -1,5 +1,7 @@
 #Walmart WebScrapper App
 
+Live demo here: [Walmart Scrapper Demo](https://walmart-scraper.herokuapp.com/)
+
 This app is used to track the Walmart products stock and prices. 
 
 How to use, fork or dowload the repository, then use npm install, then run node app.js.
