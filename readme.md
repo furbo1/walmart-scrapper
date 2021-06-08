@@ -1,4 +1,4 @@
-#Walmart WebScrapper App
+# Walmart WebScrapper App
 
 Live demo here: [Walmart Scrapper Demo](https://walmart-scraper.herokuapp.com/)
 
@@ -8,33 +8,36 @@ How to use, fork or dowload the repository, then use npm install, then run node 
 
 Technologies Used:
 
-Front-End
+<b>Front-End</b>
+```
+HTML5
+CSS3
+EJS - Embedded JavaScript templates
+```
+<b>Back-End</b>
+```
+Node.js 
+Express.js
+MongoDB
+```
 
-HTML5 <br>
-CSS3 <br>
-EJS - Embedded JavaScript templates <br>
-
-Back-End
-
-Node.js <br>
-Express.js <br>
-MongoDB <br>
-
-NPM Packages <br>
-Express <br>
-Mongoose <br>
-Async <br>
-Body-parser <br>
-Cheerio <br>
-Connect-flash <br>
-Crypto <br>
-Dotenv <br>
-Ejs <br>
-Express-session <br>
-Method-override <br>
-Nodemailer <br>
-Passport <br>
-Passport-local <br>
-Passport-local-mongoose <br>
-Path <br>
+<b>NPM Packages</b>
+```
+Express
+Mongoose
+Async
+Body-parser
+Cheerio
+Connect-flash
+Crypto 
+Dotenv 
+Ejs 
+Express-session
+Method-override 
+Nodemailer
+Passport 
+Passport-local 
+Passport-local-mongoose 
+Path
 Puppeteer 
+```
